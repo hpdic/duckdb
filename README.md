@@ -1,3 +1,8 @@
+## HPDIC MOD
+
+* Installation is easy.
+* Extensions are hard to use.
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="logo/DuckDB_Logo-horizontal.svg">
